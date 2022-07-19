@@ -1,0 +1,17 @@
+19/07/2022
+[+] Added 'Attack on Titan' Cosmetics
+[+] Catalog (set breaking) updated
+----------------------------------------------------------------------------
+05/07/2022
+[+] Added the ability to unlink sets
+[+] Unreleased skins will be available early
+[+] Events will be available early whenever a new event
+    is released
+[+] Things that BHVR temporarily disable will still be
+    enabled, such as when Nurse was disabled for a while
+[+] Auto updater has been fixed
+[*] New developer team Tivo3012#3012, SenFr#0001, and
+    sleepy <3#0001
+----------------------------------------------------------------------------
+16/6/2022
+[+] Cosmetics from 'The Twisted Masquerade' added
