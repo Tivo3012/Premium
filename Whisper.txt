@@ -1,5 +1,6 @@
 23/07/2022
 [+] Made unlinking sets optional
+[+] Dhyge joined the dev team. Discord: dhyge#1002
 ----------------------------------------------------------------------------
 20/07/2022
 [+] Perks are now unlocked aswell
@@ -19,5 +20,3 @@
 [*] New developer team Tivo3012#3012, SenFr#0001, and
     sleepy <3#0001
 ----------------------------------------------------------------------------
-16/6/2022
-[+] Cosmetics from 'The Twisted Masquerade' added
