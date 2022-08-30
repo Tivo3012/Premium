@@ -1,10 +1,12 @@
+30/08/2022
+[+] Added unlock all for the new DLC
+----------------------------------------------------------------------------
 01/08/2022
 [+] Improved the unlock items, addons and offerings method
 [+] Added a prestige override version which unlocks P100 (RISKY!)
 ----------------------------------------------------------------------------
 23/07/2022
 [+] Made unlinking sets optional
-[+] Dhyge joined the dev team. Discord: dhyge#1002
 ----------------------------------------------------------------------------
 20/07/2022
 [+] Perks are now unlocked aswell
