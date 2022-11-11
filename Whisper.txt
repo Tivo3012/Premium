@@ -1,3 +1,8 @@
+11/11/2022
+[+] Bugfixes regarding the Prestige Override
+[+] DLC only mode now lets you upgrade characters
+[+] Cleaned up some old features that aren't working anymore
+----------------------------------------------------------------------------
 03/11/2022
 [+] Added new cosmetics
 ----------------------------------------------------------------------------
@@ -10,14 +15,3 @@
 01/08/2022
 [+] Improved the unlock items, addons and offerings method
 [+] Added a prestige override version which unlocks P100 (RISKY!)
-----------------------------------------------------------------------------
-23/07/2022
-[+] Made unlinking sets optional
-----------------------------------------------------------------------------
-20/07/2022
-[+] Perks are now unlocked aswell
-----------------------------------------------------------------------------
-19/07/2022
-[+] Added 'Attack on Titan' Cosmetics
-[+] Catalog (set breaking) updated
-----------------------------------------------------------------------------
