@@ -1,3 +1,6 @@
+22/11/2022
+[+] Added Forged in Fog chapter
+----------------------------------------------------------------------------
 11/11/2022
 [+] Bugfixes regarding the Prestige Override
 [+] DLC only mode now lets you upgrade characters
@@ -12,6 +15,3 @@
 30/08/2022
 [+] Added unlock all for the new DLC
 ----------------------------------------------------------------------------
-01/08/2022
-[+] Improved the unlock items, addons and offerings method
-[+] Added a prestige override version which unlocks P100 (RISKY!)
