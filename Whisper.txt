@@ -1,3 +1,6 @@
+03/06/2023
+[+] Added new Nicolas Cage char and cosmetics
+----------------------------------------------------------------------------
 29/03/2023
 [+] Added new Alice in Wonderland cosmetics
 ----------------------------------------------------------------------------
@@ -14,7 +17,4 @@
 [+] Bugfixes regarding the Prestige Override
 [+] DLC only mode now lets you upgrade characters
 [+] Cleaned up some old features that aren't working anymore
-----------------------------------------------------------------------------
-03/11/2022
-[+] Added new cosmetics
 ----------------------------------------------------------------------------
